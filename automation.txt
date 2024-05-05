@@ -1,0 +1,11 @@
+open -a "Mail"
+
+open -a "Slack"
+
+open -a "LibreOffice"
+
+open -a "Brave Browser"
+
+This is my automation script that ran when I exeuced in the terminal, it worked. 
+
+current_datetime=$(date +"%Y-%m-%d %H:%M:%S")

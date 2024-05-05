@@ -1,0 +1,10 @@
+#I used the bash version in VS code, and worked well, below is my code
+
+#!/bin/bash
+
+echo "Please enter your name: "
+
+read username
+
+echo "Hello, $username! Welcome to the world of Bash scripting."
+
